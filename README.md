@@ -1,1 +1,1 @@
-# This is my learning solidity repo
+# Learning solidity repo
